@@ -3,8 +3,7 @@
 > A mini distributed storage system built with Python and Flask.  
 > Data is replicated across 3 nodes — if one goes down, the others keep running.
 
-**Group 4 | DST4010A**  
-Teddy Baraka · Derby Otieno · Joseph Santurino
+
 
 ---
 
